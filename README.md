@@ -3,6 +3,7 @@
 - item 2
 
 # Código to' flama
+### Prueba de insertar imagen
 ![basura](https://img.ifcdn.com/images/14ad5960866fe32ef1bef607cbe60e734a8c2bd3faae53baa02d9bc3504b006b_1.jpg)
 ```html
 <!DOCTYPE html>
